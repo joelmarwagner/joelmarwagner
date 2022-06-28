@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @joelmarwagner
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Eu 
 
-<!---
-joelmarwagner/joelmarwagner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Olá.Eu sou @joelmarwagner
+- 👀 Sou do  Ensino Medio da escola estadual de marmeleiro 
+- 🌱 estou estudando para criar jogos de robotica 
